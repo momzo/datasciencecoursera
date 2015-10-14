@@ -1,7 +1,4 @@
 ---
-title: "HelloWorld.md"
-author: "issa fall"
-date: "October 14, 2015"
-output: html_document:keep_md:true
+output: word_document
 
 ## This is a markdown file.
